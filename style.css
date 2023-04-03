@@ -1,0 +1,16 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(to bottom right, rgb(16, 39, 68), #354E5D);
+    overflow: hidden;
+}
+
+#count {
+    position: fixed;
+    top: 50px;
+    left: 20px;
+    color: white;
+}
